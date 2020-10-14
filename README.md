@@ -1,4 +1,4 @@
-### Hi there I'm Dammy (aka Dammy Richie, aka Flutter Boyfriend)👋
+### Hi there I'm Dammy...👋
 
 **I'm 19y/o, Father of many nation, Funny ASF, Foodie, PlayBowy, Your Girlfriend's Crush**
 
