@@ -2,8 +2,6 @@
 
 **I'm 19y/o, Father of many nation, Funny ASF, Foodie, PlayBowy, Your Girlfriend's Crush**
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building my GitHub repository
 - 🌱 I’m currently learning Flutter/Dart
 - 👯 I’m looking to collaborate on Anything Collaborable 
