@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on Anything Collaborable 
 - 🤔 I’m looking for help with a Mac 
 - 💬 Ask me about ...Flutter/Dart
-- 📫 How to reach me: ....
+- 📫 How to reach me
+##Telegram 
+-    https://t.me/Dammy_Richie200
 - 😄 Pronouns: ....
 - ⚡ Fun fact: I love boredom, I'm allergic to fun or lemme just say I love been alone
