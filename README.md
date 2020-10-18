@@ -8,6 +8,7 @@
 - 🤔 I’m looking for help with a Mac 
 - 💬 Ask me about ...Flutter/Dart
 - 📫 How to reach me
-**-   https://t.me/Dammy_Richie200**
+**-  https://t.me/Dammy_Richie200**
+**-  formatable2018@gmail.com** 
 - 😄 Pronouns: ....
 - ⚡ Fun fact: I love boredom, I'm allergic to fun or lemme just say I love been alone
