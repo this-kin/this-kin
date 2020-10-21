@@ -10,5 +10,5 @@
 - 📫 How to reach me
 **-  https://t.me/Dammy_Richie200**
 **-  formatable2018@gmail.com** 
-- 😄 Pronouns: ....
+- 😄 Pronouns: He 
 - ⚡ Fun fact: I love boredom, I'm allergic to fun or lemme just say I love been alone
