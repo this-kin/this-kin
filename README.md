@@ -1,6 +1,6 @@
 ### Hi there I'm Dammy...👋
 
-**I'm 19y/o, Father of many nation, Funny ASF, Foodie, PlayBowy, Your Girlfriend's Crush**
+**I'm 19y/o, Funny ASF, Foodie, PlayBowy, Your Girlfriend's Crush**
 
 - 🔭 I’m currently working on building my GitHub repository
 - 🌱 I’m currently learning Flutter/Dart
