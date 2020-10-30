@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on building my GitHub repository
 - 🌱 I’m currently learning Flutter/Dart
 - 👯 I’m looking to collaborate on Anything Collaborable 
-- 🤔 I’m looking for help with a Mac 
 - 💬 Ask me about ...Flutter/Dart
 - 📫 How to reach me
 **-  https://t.me/Dammy_Richie200**
