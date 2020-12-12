@@ -6,8 +6,11 @@
 - 🌱 I’m currently learning Flutter/Dart
 - 👯 I’m looking to collaborate on Anything Collaborable 
 - 💬 Ask me about ...Flutter/Dart
-- 📫 How to reach me
-**-  https://t.me/Dammy_Richie200**
-**-  formatable2018@gmail.com** 
-- 😄 Pronouns: He 
 - ⚡ Fun fact: I love boredom, I'm allergic to fun or lemme just say I love been alone
+
+
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FlutterBoyfriend&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlutterBoyfriend)](https://github.com/anuraghazra/github-readme-stats)
