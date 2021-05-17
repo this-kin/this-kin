@@ -1,7 +1,23 @@
-### Kotlin, Flutter & JavaScript
+<a href="https://api.whatsapp.com/send?phone=2349068732878&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+</a>
+<a href="https://www.twitter.com/@im_FlutterBoy1" alt="Follow Me on Twitter"> 
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/@flutterboyfriend200" alt="Follow Me on Instagram"> 
+    <img src="https://img.shields.io/badge/instagram-%CC8899.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://https://skype.com/live:.cid.c6159aa18ce5059f" alt="Follow Me on Twitter"> 
+    <img src="https://img.shields.io/badge/skype-%231DA1F2.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+</a>
+</a>&nbsp;
+<a href="mailto: formatable2018@gmail.com@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https:telegram.org/dl" alt="messsage on Telegram"> 
+    <img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
+## 🚀 Skills
 
-### STATS:
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FlutterBoyfriend&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlutterBoyfriend)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/kotlin-%FA26A0.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
