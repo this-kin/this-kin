@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/@flutterboyfriend200" alt="Follow Me on Instagram"> 
-    <img src="https://img.shields.io/badge/instagram-%CC8899.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-%23D14831.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://https://skype.com/live:.cid.c6159aa18ce5059f" alt="Follow Me on Twitter"> 
     <img src="https://img.shields.io/badge/skype-%231DA1F2.svg?&style=for-the-badge&logo=skype&logoColor=white" />
