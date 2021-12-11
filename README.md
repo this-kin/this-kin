@@ -18,9 +18,9 @@
 </a>&nbsp;
 <a href="mailto: formatable2018@gmail.com@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https:t.me/ichie200 alt="messsage on Telegram"> 
-    <img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=skyblue" />
+    <img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=blue" />
 </a>
  <a href="https:www.linkedin.com/in/dammy-richie-506a60224 alt="messsage on linkedln"> 
     <img src="https://img.shields.io/badge/linkedln-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=blue" />
