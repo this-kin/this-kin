@@ -32,4 +32,4 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FlutterBoyfriend&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ichie2&show_icons=true)
