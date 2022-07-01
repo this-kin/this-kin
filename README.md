@@ -22,7 +22,7 @@
 <a href="https:t.me/ichie200 alt="messsage on Telegram"> 
     <img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=blue" />
 </a>
- <a href="https:www.linkedin.com/in/dammy-richie-506a60224 alt="messsage on linkedln"> 
+ <a href="https:https://www.linkedin.com/in/adekunle-damilola-506a60224?="messsage on linkedln"> 
     <img src="https://img.shields.io/badge/linkedln-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=blue" />
 </a>                                                                                                                    
 
