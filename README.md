@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/skype-%231DA1F2.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>
 </a>&nbsp;
-<a href="mailto: formatable2018@gmail.com@gmail.com">
+<a href="mailto: formatable2018@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https:t.me/ichie200 alt="messsage on Telegram"> 
