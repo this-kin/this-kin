@@ -28,7 +28,7 @@
 
 ## 🚀 Skills
 
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/kotlin-%FA26A0.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/kotlin-%FA26A0.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/firebase-%2302569B.svg?&style=for-the-badge&logo=firebase&logoColor=yellow" />  <img src="https://img.shields.io/badge/figma-%000000.svg?&style=for-the-badge&logo=figma&logoColor=purple" /> 
 
 <br>
 
