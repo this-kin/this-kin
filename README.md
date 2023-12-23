@@ -32,4 +32,4 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kin-devv&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=this-kin&show_icons=true)
